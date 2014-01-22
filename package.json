@@ -1,0 +1,21 @@
+{
+  "name": "buster-test-testing",
+  "version": "0.0.0",
+  "description": "Test Buster.js testing to help debug issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/buster-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GCheung55/buster-test-testing.git"
+  },
+  "author": "Garrick Cheung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GCheung55/buster-test-testing/issues"
+  },
+  "devDependencies": {
+    "buster": "~0.7.8"
+  }
+}
